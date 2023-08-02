@@ -1,4 +1,5 @@
-![image](https://github.com/nitindantu/Healthcare/assets/41870240/35fe9111-ff79-4b45-b00a-906e664a1168)
+![image](https://github.com/nitindantu/Healthcare/assets/41870240/7ca26032-1da7-4ac2-8a14-fb9d1b4f9035)
+
 
 ![image](https://github.com/nitindantu/Healthcare/assets/41870240/595fa825-2425-400c-bb0e-2f15e8804329) 
 
