@@ -13,6 +13,7 @@ The implementation is based on keras and tested on both Theano and Tensorflow ba
 Here are some results predicted by a model trained for 2 epochs :
 
 *   **HGG cases** :
+
 ![HGG-Brats17_2013_7_1-111](https://github.com/nitindantu/Healthcare/assets/41870240/d1a37642-eefd-4a0d-9afe-ebacb522db54)
 ![HGG-Brats17_CBICA_ASV_1-88](https://github.com/nitindantu/Healthcare/assets/41870240/a34b88c5-3ac4-462f-8b59-311fc0e48451)
 ![HGG-Brats17_TCIA_186_1-90](https://github.com/nitindantu/Healthcare/assets/41870240/505fed33-29ef-40fe-a627-0537ed2d4f8c)
