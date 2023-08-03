@@ -9,14 +9,24 @@ The project aims at developing a deep learning model for predicting the severity
 # Preprocessing
 - Reducing lighting-condition effects: Images come with many different lighting conditions, some images are very dark and difficult to visualize. We can try to convert the image to gray scale, and visualize better. Alternatively, there is a better approach. We can try the method of Ben Graham.
 - Cropping uninformative area
+- featurewise_std_normalization
+- horizontal_flip
+- vertical_flip
+- rotation_range
+- oom_range
 ## Comparing unprocessed vs preprocessed 
 ![image](https://github.com/nitindantu/Healthcare/assets/41870240/5bba5567-45f7-48ba-83a5-8df88387b15b)
 
 ![image](https://github.com/nitindantu/Healthcare/assets/41870240/ec9110e3-acdd-4359-ac73-ca0f0d84b1e4)
 
 # Deep Learning Model
+We will be using EfficientNet as transfer learning model
+![image](https://github.com/nitindantu/Healthcare/assets/41870240/1ac939e8-2267-4a0d-9757-a19281cc892a)
 
-![image](https://github.com/nitindantu/Healthcare/assets/41870240/14355eb9-28ab-430a-8faf-3a6f9c34cc6d)
+![image](https://github.com/nitindantu/Healthcare/assets/41870240/1ecadad3-ea8e-4057-a308-9fc22e75c9c2)
 
+![image](https://github.com/nitindantu/Healthcare/assets/41870240/7ca518de-e8da-412f-9a2e-7539a50d8e3a)
+
+![image](https://github.com/nitindantu/Healthcare/assets/41870240/59434973-79f3-45a7-b51a-15cb2f2da920)
 
 
