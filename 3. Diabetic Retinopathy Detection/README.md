@@ -25,6 +25,7 @@ We will be using EfficientNet as transfer learning model
 
 ![image](https://github.com/nitindantu/Healthcare/assets/41870240/1ecadad3-ea8e-4057-a308-9fc22e75c9c2)
 
+# Result
 ![image](https://github.com/nitindantu/Healthcare/assets/41870240/7ca518de-e8da-412f-9a2e-7539a50d8e3a)
 
 ![image](https://github.com/nitindantu/Healthcare/assets/41870240/59434973-79f3-45a7-b51a-15cb2f2da920)
