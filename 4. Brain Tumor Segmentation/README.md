@@ -19,6 +19,7 @@ Here are some results predicted by a model trained for 2 epochs :
 ![HGG-Brats17_TCIA_186_1-90](https://github.com/nitindantu/Healthcare/assets/41870240/505fed33-29ef-40fe-a627-0537ed2d4f8c)
 
 *   **LGG cases** :
+  
 ![LGG-Brats17_TCIA_202_1-70](https://github.com/nitindantu/Healthcare/assets/41870240/00449b0b-c000-4b04-99d2-2fcbecab77da)
 ![LGG-Brats17_2013_24_1-91](https://github.com/nitindantu/Healthcare/assets/41870240/061b5896-2902-49c3-8e7e-8639e48fe9e1)
 ![LGG-Brats17_TCIA_462_1-97](https://github.com/nitindantu/Healthcare/assets/41870240/81f34321-5eb1-4bcf-b2fd-bc7347b587b9)
