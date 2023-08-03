@@ -6,6 +6,12 @@ Diabetic retinopathy (DR) is one of the leading causes of vision loss. According
 # Description 
 The project aims at developing a deep learning model for predicting the severity of DR disease based on the patient’s retina photograph. Previous research has explored the usage of deep learning for detecting DR and concluded that convolutional neural networks (CNNs) have high potential in this task. 
 
+# Preprocessing
+- Reducing lighting-condition effects: Images come with many different lighting conditions, some images are very dark and difficult to visualize. We can try to convert the image to gray scale, and visualize better. Alternatively, there is a better approach. We can try the method of Ben Graham.
+- Cropping uninformative area
+## Comparing unprocessed vs preprocessed 
+![image](https://github.com/nitindantu/Healthcare/assets/41870240/5bba5567-45f7-48ba-83a5-8df88387b15b)
+
 ![image](https://github.com/nitindantu/Healthcare/assets/41870240/ec9110e3-acdd-4359-ac73-ca0f0d84b1e4)
 
-![image](https://github.com/nitindantu/Healthcare/assets/41870240/5bba5567-45f7-48ba-83a5-8df88387b15b)
+
