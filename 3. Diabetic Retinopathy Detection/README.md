@@ -14,4 +14,9 @@ The project aims at developing a deep learning model for predicting the severity
 
 ![image](https://github.com/nitindantu/Healthcare/assets/41870240/ec9110e3-acdd-4359-ac73-ca0f0d84b1e4)
 
+# Deep Learning Model
+
+![image](https://github.com/nitindantu/Healthcare/assets/41870240/14355eb9-28ab-430a-8faf-3a6f9c34cc6d)
+
+
 
